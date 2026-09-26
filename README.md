@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="assets/multilingual_medical_bert_overview.png"
+       alt="Multilingual Medical BERT Project Overview"
+       width="100%">
+</p>
+
 <div align="center">
 
 # 🌍🩺 Multilingual Medical BERT
