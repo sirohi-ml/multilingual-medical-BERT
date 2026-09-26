@@ -14,11 +14,6 @@
 
 ---
 
-<p align="center">
-  <img src="assets/multilingual_medical_bert_overview.png"
-       alt="Multilingual Medical BERT Project Overview"
-       width="100%">
-</p>
 
 ### 🌎 One model. Many languages. One medical representation space.
 
