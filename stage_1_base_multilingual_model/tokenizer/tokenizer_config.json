@@ -1,0 +1,21 @@
+{
+    "tokenization_level": "subword",
+    "algorithm": "WordPiece",
+    "vocab_size": 21000,
+    "min_frequency": 5,
+    "cased": true,
+    "unicode_normalization": "NFC",
+    "strip_accents": false,
+    "pre_tokenizer": "BertPreTokenizer",
+    "continuing_subword_prefix": "##",
+    "limit_alphabet": 1000,
+    "max_input_chars_per_word": 100,
+    "special_tokens": [
+        "[PAD]",
+        "[UNK]",
+        "[CLS]",
+        "[SEP]",
+        "[MASK]"
+    ],
+    "training_corpus": "enwiki_train.jsonl"
+}
